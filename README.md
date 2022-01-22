@@ -1,8 +1,8 @@
 ![alt text](https://github.com/lax0248917/lax0248917/blob/main/header.png?raw=true)
 
-- 🔭 I’m currently working on building an intuitive CLI/TUI tool with some pretty cool friends in a language none of us have used before
-- 🌱 I’m currently learning Rust, C#, PowerBI, and React
-- 📫 How to reach me: Twitter: @Zach_A_King - Instagram: @zacharyalanking - LinkedIn: linkedin.com/in/zachary-king-8b605a7a
+- 🔭 I’m currently working on building an intuitive CLI/TUI tool with some pretty cool friends
+- 🌱 I’m currently learning Python for Data Analytics
+- 📫 How to reach me: Twitter: @Zach_A_King - LinkedIn: linkedin.com/in/zachary-king-8b605a7a
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Father of 4, gym rat, and currently working as a software administrator.
 
@@ -12,6 +12,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" />
 <img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
