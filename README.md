@@ -1,7 +1,7 @@
 ![alt text](https://github.com/lax0248917/lax0248917/blob/main/header.png?raw=true)
 
-- 🔭 I’m currently working on building an intuitive CLI/TUI tool with some pretty cool friends
-- 🌱 I’m currently learning Python for Data Analytics
+- 🔭 I’m currently building some Azure Functions
+- 🌱 I’m currently learning C# and how to build applications using Object Oriented Programming
 - 📫 How to reach me: Twitter: @Zach_A_King - LinkedIn: linkedin.com/in/zachary-king-8b605a7a
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Father of 4, gym rat, and currently working as a software administrator.
