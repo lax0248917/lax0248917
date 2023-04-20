@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning C# and how to build applications using Object Oriented Programming
 - 📫 How to reach me: Twitter: @Zach_A_King - LinkedIn: linkedin.com/in/zachary-king-8b605a7a
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Father of 4, gym rat, and currently working as a software administrator.
+- ⚡ Fun fact: Father of 6, gym rat, and currently working as a software engineer.
 
 #### Current Languages and Tools I use or am exploring
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
